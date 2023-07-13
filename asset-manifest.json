@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Shopping-Redux/static/css/main.0d9f9259.css",
-    "main.js": "/Shopping-Redux/static/js/main.d8ad2939.js",
+    "main.js": "/Shopping-Redux/static/js/main.9c448a9e.js",
     "static/media/notification.svg?s3g3t9": "/Shopping-Redux/static/media/notification.5d0158671dd860c714c4.svg",
     "static/media/notification.eot": "/Shopping-Redux/static/media/notification.3657084dc0419605a91c.eot",
     "static/media/notification.woff?s3g3t9": "/Shopping-Redux/static/media/notification.c392cd33d9d9de730f9d.woff",
     "static/media/notification.ttf?s3g3t9": "/Shopping-Redux/static/media/notification.c5d9251ea82e42f75381.ttf",
     "index.html": "/Shopping-Redux/index.html",
     "main.0d9f9259.css.map": "/Shopping-Redux/static/css/main.0d9f9259.css.map",
-    "main.d8ad2939.js.map": "/Shopping-Redux/static/js/main.d8ad2939.js.map"
+    "main.9c448a9e.js.map": "/Shopping-Redux/static/js/main.9c448a9e.js.map"
   },
   "entrypoints": [
     "static/css/main.0d9f9259.css",
-    "static/js/main.d8ad2939.js"
+    "static/js/main.9c448a9e.js"
   ]
 }
